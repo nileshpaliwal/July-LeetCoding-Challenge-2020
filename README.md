@@ -1,4 +1,4 @@
-# Leetcode 30-Day Challenge July Edition
+# Leetcode 31-Day Challenge July Edition
 
 [![Python 3.7](https://img.shields.io/badge/Python-3.7-orange.svg?style=flat)](https://www.python.org/)  
 
