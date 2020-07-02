@@ -12,7 +12,8 @@
 |:--: | :--: | :--: |  :--: |
 | Icon | 📗 | 📙 | 📕 |
 
-## June 1st 
+## June 1st - June2nd
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
 | 1 |📗|[Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution](https://github.com/nileshpaliwal/July-LeetCoding-Challenge-2020/blob/master/Arranging%20Coins.py)|
+| 2 |📗|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](https://github.com/nileshpaliwal/July-LeetCoding-Challenge-2020/blob/master/Binary%20Tree%20Level%20Order%20Traversal%20II.py)|
