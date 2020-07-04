@@ -12,9 +12,10 @@
 |:--: | :--: | :--: |  :--: |
 | Icon | 📗 | 📙 | 📕 |
 
-## July 1st - July3rd
+## July 1st - July4th
 | Day | Diffculty | Problem | Solution |
 |:--:| :--: | :-- | -- |
 | 1 |📗|[Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution](https://github.com/nileshpaliwal/July-LeetCoding-Challenge-2020/blob/master/Arranging%20Coins.py)|
 | 2 |📗|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution](https://github.com/nileshpaliwal/July-LeetCoding-Challenge-2020/blob/master/Binary%20Tree%20Level%20Order%20Traversal%20II.py)|
 | 3 |📙|[Prison Cells After N Days](https://leetcode.com/explore/challenge/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/) | [Solution](https://github.com/nileshpaliwal/July-LeetCoding-Challenge-2020/blob/master/Prison%20Cells%20After%20N%20Days.py)|
+| 4 |📙|[Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Solution](https://github.com/nileshpaliwal/July-LeetCoding-Challenge-2020/blob/master/Ugly%20Number%20II.py)|
