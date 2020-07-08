@@ -22,3 +22,4 @@
 | 5 |📗|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Solution](https://github.com/nileshpaliwal/July-LeetCoding-Challenge-2020/blob/master/Hamming%20Distance.py)|
 | 6 |📗|[Plus One](https://leetcode.com/problems/plus-one/) | [Solution](https://github.com/nileshpaliwal/July-LeetCoding-Challenge-2020/blob/master/Plus%20One.py)|
 | 7 |📗|[Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Solution](https://github.com/nileshpaliwal/July-LeetCoding-Challenge-2020/blob/master/Island%20Perimeter.py)|
+| 8 |📙|[3Sum](https://leetcode.com/problems/3sum/) | [Solution](https://github.com/nileshpaliwal/July-LeetCoding-Challenge-2020/blob/master/3Sum.py)|
